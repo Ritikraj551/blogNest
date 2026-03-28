@@ -1,6 +1,7 @@
 # BlogNest
 
-BlogNest is a React + Vite blog app built with Appwrite for backend storage, authentication, file uploads, and database management.
+ BlogNest is a modern blog web application built with React and Vite that uses Appwrite as its backend. It allows users to sign up, log in, and create, edit, or delete blog posts with rich text content and featured images. The app includes authentication-based page protection, state management with Redux, and a clean UI powered by Tailwind CSS, making it a full-stack blogging platform with secure data storage and media handling.
+.
 
 ## What this app does
 
